@@ -1,4 +1,4 @@
-Database2 is the original file that contains everything in the sentence format.
+notusefulbutraw_data is the original file that contains everything in the sentence format.
 
 Database is the file we used inside of the python where the first row and column disappear to avoid the duplication.
 
